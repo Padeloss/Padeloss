@@ -6,7 +6,6 @@ Electronics enthusiast from Thessaloniki, Greece, learning to code and building 
 ## 🛠️ What I'm working on
 
 - 🎮 [play-and-learn](https://github.com/Padeloss/play-and-learn): a quiz game for school students (Python)
-- 📦 [Old version of the quiz app](https://github.com/Padeloss/-play_app_-OLD-VERSION): the first Python/Flask version
 
 ## 🌱 Currently learning
 
